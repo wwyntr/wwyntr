@@ -5,9 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="350" onerror="this.src='https://github.com.png'" />
-</p>
-
-<p align="center">
-  <sub><a href="https://github.com">@devotedplanet</a> <a href="https://github.com">@Solar-drsapph</a></sub>
+  <img src="https://imgbox.com" width="350" />
 </p>
