@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://imgbox.com" width="350" />
+  <img src="spoke.png" width="350" />
 </p>
